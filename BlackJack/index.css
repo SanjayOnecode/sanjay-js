@@ -1,0 +1,18 @@
+h1 {
+    color: orange;
+}
+
+body {
+    background-color: green;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+button {
+    color: green;
+    background-color: orange;
+    border-radius: 8px;
+}
