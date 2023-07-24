@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+    min-width: 400px;
+}
+
+input {
+    padding: 8px;
+}
+
+ul {
+    padding: 6px;
+    list-style: none;
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+    color: green;
+}
